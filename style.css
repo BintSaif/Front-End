@@ -37,6 +37,7 @@ nav img{
     -webkit-text-stroke: 1px #ECD662;
     background: url(images/brand.png);
     -webkit-background-clip: text;
+    background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
 }
