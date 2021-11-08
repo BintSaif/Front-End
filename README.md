@@ -1,2 +1,2 @@
-# Front-End
+# Front-End Development
 Apprenticeship Programme template page
